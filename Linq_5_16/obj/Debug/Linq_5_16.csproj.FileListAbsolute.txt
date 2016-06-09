@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Linq_5_16\Linq_5_16\bin\Debug\Linq_5_16.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Linq_5_16\Linq_5_16\bin\Debug\Linq_5_16.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Linq_5_16\Linq_5_16\bin\Debug\Linq_5_16.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Linq_5_16\Linq_5_16\obj\Debug\Linq_5_16.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Linq_5_16\Linq_5_16\obj\Debug\Linq_5_16.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Linq_5_16\Linq_5_16\obj\Debug\Linq_5_16.pdb
